@@ -4,6 +4,7 @@
 ## Useage 
 - `npm install`
 - `forever start server.js`
+
 ## Nginx Config
 ```
 location / {
