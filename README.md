@@ -1,8 +1,9 @@
 # Prerender Service
 ## Require
 `npm install -g forever` use forever or other node process management application
-## Install
-`npm install`
+## Useage 
+- `npm install`
+- `forever start server.js`
 ## Nginx Config
 ```
 location / {
